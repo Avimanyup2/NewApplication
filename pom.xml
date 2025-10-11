@@ -5,15 +5,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>MyWebApplication</artifactId>
+  <artifactId>NewApplication</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>MyWebApplication</name>
+  <name>NewApplication</name>
   <description>Sample Dynamic Web Application using Maven</description>
 
   <build>
-    <finalName>MyWebApplication</finalName>
+    <finalName>NewApplication</finalName>
     <plugins>
         <plugin>
             <artifactId>maven-compiler-plugin</artifactId>
